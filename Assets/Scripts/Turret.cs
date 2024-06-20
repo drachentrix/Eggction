@@ -48,17 +48,17 @@ public class Turret : MonoBehaviour
     {
         float angle = Mathf.Atan2(_target.position.y - transform.position.y, _target.position.x - transform.position.x) *
                       Mathf.Rad2Deg + 90f;
-
+        Debug.Log("YEY");
         Quaternion targetRotation = Quaternion.Euler(new Vector3(0f, 0f, angle));
-        turretRotationPoint.rotation = Quaternion.RotateTowards(turretRotationPoint.rotation, targetRotation, rotationSpeed * Time.deltaTime);
+        transform.rotation = Quaternion.RotateTowards(turretRotationPoint.rotation, targetRotation, rotationSpeed * Time.deltaTime);
     }
     void FindTarget()
     {
-        RaycastHit2D[] hits = Physics2D.CircleCastAll(transform.position, targetRange, transform.position, 0f, enemyMask);
-
-        if (hits.Length > 0)
+        RaycastHit2D hits = Physics2D.CircleCast(transform.position, targetRange, transform.position, 0f, enemyMask);
+        Debug.Log(hits.transform);
+        if (hits)
         {
-            _target = hits[0].transform;
+            _target = hits.transform;
         }
     }
 
