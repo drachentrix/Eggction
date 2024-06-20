@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="73dac4cf-aa51-4a3a-9b68-9f0830b16a16" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/01/01142e7dd9b5da9c6a22fc7d30c3f0db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/02/022f72c92e97b9c90f23b237beaadf3c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/07/072c479e57d3946f4cf22994b86544e6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/0a/0a18cae745849a309d5d507580d7531b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/10/10b3e76428c7244544b6c5dd17b65c19" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/11/1129a8aef957216ba250876493a8608a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/14/14315f5ba5f324928b4fa6a31d547422" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/17/170362ba435d29fda07be76f9df0e2d5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/17/17b2fd4fb9e763231fa181d90b4ecabf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/17/17bb790cb9fd4016a92d43ef286479ad" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/17/17ff374fa9f290286cfffcf4fca191d0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/1e/1e57a5b5a3f424a620dcecd24a22af39" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/21/21912277c92fdfa27686d7c64bffda36" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/25/25bc934af33649a44aa67d928c058d43" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/25/25ee861590cc67a836899624a718608b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/27/27804a8496c184b34784c2d9dda9ea8a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/28/28002d25b0258626faa63ec86c96c5f9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/2b/2b8ee73048446838134f7db7dff69250" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/2c/2cad14ccc8dbef8404f4f27176f3f93a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/2d/2d610054a0ecbda6ad6b12399af294b3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/2e/2e62bc104007d8612c763343594b0563" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/33/3321f1b0f7aacdd5f2a06bcd9e328605" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/33/33788edf6cc92d8b036a1b8b881f436e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/38/38881e5248761a7e9e937026bc998a57" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/38/38f7b3af18f7f803f96d17a3c19fa49e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/3b/3b3f2c2a76d336e68cd84013315f35f7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/3d/3df16d0e9976dc558b580fd509b87f0f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/40/407c2e6459d4ff6d6cfa16e1596ef744" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/40/40db81c2a8e239a85ffce956a4da9582" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/46/46ff80122d217cfb976529295befef13" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/48/4854561ec8e481ec036a71b6c1a71319" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/4e/4ee8d583219332b5601b44b8296e624a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/4f/4f3e3b49fc9a2fd37bbc0a2c8bf21c17" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/55/55b2b89d9e3a92b1869d1a78700e49ea" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/57/57d524d77ce8a98f94ec7f677c6a30ff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/62/620e2a031bde32bd734d6f5d67a4a085" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/66/66bae6bc9693bd78212bf5b20427e55c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/67/67f0602203cfd8c6ec032138c9437b02" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/6e/6e97eeaa39ec0cfd6dc44006a79c1ee6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/6f/6f7df7b09fde9496a82f182c358618ac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/70/70cb74b549310921b7b4715786c90bc2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/78/78d6c2855328a660ed0a9269fcab6c3d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/7e/7e573c027f57a225635053a8cad88f1d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/7f/7ff0d8a0079cbe1facff949c14acb043" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/86/86ffb5920c75e991f1e0fb058636afb1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/88/88a18739040246edddd175f7092185d1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/8a/8a09a000a3b1fcac228b6acbaff554e4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/8d/8dc80232e33f4c3775f1eb780a2a69e5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/8e/8e6d1795f57525089753310e99cc3ef4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/92/925921867dffbab10dc33528de5c5b42" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/94/948a25946baa772b3b1bb01b2f373193" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/95/957510ed5ac44654c69f85c7d07457ad" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/96/964bab9ed0791590c083e55b7bed590a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/98/98e0e6e9496c09699b81192bc014538c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/9a/9af8d79993a9dc819e0811247e4e26f2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/a2/a231bb23bfd62d718213f4bca2af5161" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/a4/a4b3dc322e8976bd95b9b48a66d13fc8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/aa/aa51be6a2f4b1f03fb75e05ebff58171" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/ab/ab77601e88c635a12df1f4e48d986ad5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/ac/ac319a053228892881d588a62141fea9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/b0/b0e66e2aaf81a0b4a9b21a24771e65a0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/b2/b206999c121e56bdc29e434ccac32358" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/b4/b47fd2503a5c52e14864fafdcea09d51" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/b5/b5de5ffebc25c47b2d9c917604e43060" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/b6/b6fb4fa7a46b00d7ad9ab535e58000da" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/bb/bb1adf7fb9bed791b20489db24b3003e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/bb/bb1c1ad52269af0385330291bdef71a2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/be/beeb8910308ae08616c12876c22321a3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/c1/c16d385b639d129d8ef7918504440609" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/c4/c445c35991170beb7a8a79385057868f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/cb/cb1fa97729873bf951801b1a12444caa" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/cd/cd54e27be6e9066bc3b0520d5b7fbfaf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/d5/d565db67f90c9d69fa6307d3d07c9550" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/d5/d5b1073adc27549a2704b13614006941" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/d6/d647ad229930edf1ed44e06443c031ba" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/d7/d7703d6ef540a3dfe6253c81caf3a031" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/da/da657c02397bf5ec83f3dfa4d9393bed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/da/daf894e1f94117bbad160dacc38bd0be" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/db/db54181a5798ddd3cf76cde7202c3cd0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/e2/e2b019659ed92da94ca7e6d526d8405b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/e2/e2bc2eac0f5c9fd3b6a70fbde4091f92" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/e4/e43bbcf716b0e2cfe2e186bbc82d095f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/e8/e878478c7c113f1530e07abb88fe40ab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/f2/f2ec64d887ef34df9029f18169e5a073" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/f4/f4b02f1e1524787564aa3c0045a22500" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Bee/CachedNodeOutput/dd53e27f31dfb3fdeab8c960a15ad920_out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Bee/artifacts/1900b0aE.dag/Unity.EditorCoroutines.Editor.dll.mvfrm.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Bee/artifacts/1900b0aE.dag/Unity.PlasticSCM.Editor.ref.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Bee/artifacts/1900b0aE.dag/Unity.PlasticSCM.Editor.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Bee/artifacts/1900b0aE.dag/Unity.Settings.Editor.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.dll.mvfrm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Bee/artifacts/mvdfrm/UnityEditor.UI.ref.dll_4C98D3F7040CD4F5.mvfrm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Bee/artifacts/mvdfrm/UnityEngine.ARModule.dll_A3A3243B74248B90.mvfrm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Bee/artifacts/mvdfrm/UnityEngine.VehiclesModule.dll_B283CA44A21F1336.mvfrm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@2.3.1/Documentation~/images/ProjectView.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@2.3.1/Documentation~/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@2.3.1/Editor/PlasticSCM/AssetOverlays/Cache/BuildPathDictionary.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@2.3.1/Editor/PlasticSCM/AssetOverlays/Cache/RemoteStatusCache.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@2.3.1/Editor/PlasticSCM/Assets/Images/d_icondeletedlocaloverlay.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@2.3.1/Editor/PlasticSCM/Assets/Images/d_icondeletedremote@2x.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@2.3.1/Editor/PlasticSCM/Assets/Images/d_iconinviteusers.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@2.3.1/Editor/PlasticSCM/Assets/Images/d_iconlock.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@2.3.1/Editor/PlasticSCM/Assets/Images/d_stepok@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@2.3.1/Editor/PlasticSCM/Assets/Images/icondeleted.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@2.3.1/Editor/PlasticSCM/Assets/Images/iconplasticnotifyconflict.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@2.3.1/Editor/PlasticSCM/Assets/Images/iconundo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@2.3.1/Editor/PlasticSCM/Assets/Images/step3.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@2.3.1/Editor/PlasticSCM/Assets/Styles/ProgressControlsForDialogs.uss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@2.3.1/Editor/PlasticSCM/AssetsUtils/AssetsPath.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@2.3.1/Editor/PlasticSCM/CheckWorkspaceTreeNodeStatus.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@2.3.1/Editor/PlasticSCM/Help/HelpFormat.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@2.3.1/Editor/PlasticSCM/ParentWindow.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@2.3.1/Editor/PlasticSCM/PlasticNotification.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@2.3.1/Editor/PlasticSCM/UI/DrawTextBlockWithEndLink.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@2.3.1/Editor/PlasticSCM/UI/EditorProgressControls.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@2.3.1/Editor/PlasticSCM/UI/EnumPopupSetting.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@2.3.1/Editor/PlasticSCM/UI/FindEditorWindow.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@2.3.1/Editor/PlasticSCM/UI/ScreenResolution.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@2.3.1/Editor/PlasticSCM/UI/UnityPlasticTimer.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@2.3.1/Editor/PlasticSCM/Views/CreateWorkspace/CreateWorkspaceViewState.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@2.3.1/Editor/PlasticSCM/Views/CreateWorkspace/PerformInitialCheckin.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@2.3.1/Editor/PlasticSCM/Views/Locks/LocksSelector.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@2.3.1/Editor/PlasticSCM/Views/PendingChanges/ChangeTreeViewItem.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@2.3.1/Editor/PlasticSCM/Views/PendingChanges/PendingChangesTreeHeaderState.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@2.3.1/Editor/PlasticSCM/Views/PendingChanges/PendingMergeLinks/MergeLinksListView.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@2.3.1/Editor/PlasticSCM/Views/Welcome/MacOSConfigWorkaround.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@2.3.1/Editor/PlasticSCM/Views/Welcome/WelcomeView.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@2.3.1/Editor/PlasticSCM/WorkspaceWindow.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@2.3.1/Lib/Editor/PlasticSCM/Localization/binmergetool.ko.txt.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@2.3.1/Lib/Editor/PlasticSCM/Localization/differences.ja.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@2.3.1/Lib/Editor/PlasticSCM/Localization/guihelp.en.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@2.3.1/Lib/Editor/PlasticSCM/Localization/workspaceserver.zh-Hans.txt.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@3.0.28/Rider/Editor/Discovery.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@3.0.28/Rider/Editor/ProjectGeneration/LastWriteTracker.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@3.0.28/Rider/Editor/UnitTesting/SyncTestRunCallback.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.visualstudio@2.0.22/Documentation~/Images/external-tools-tab.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.visualstudio@2.0.22/Editor/COMIntegration/COMIntegration~/COMIntegration.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.visualstudio@2.0.22/Editor/SolutionProperties.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.visualstudio@2.0.22/Editor/Testing/TestStatusAdaptor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.modules.cloth@1.0.0/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.modules.imageconversion@1.0.0/.icon.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.modules.terrain@1.0.0/package.ModuleCompilationTrigger.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.modules.tilemap@1.0.0/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.performance.profile-analyzer@1.2.2/Documentation~/images/frame-summary-pane.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.performance.profile-analyzer@1.2.2/Documentation~/images/similar-distributions.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.performance.profile-analyzer@1.2.2/Editor/DepthSliceDropdown.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.performance.profile-analyzer@1.2.2/Editor/Draw2D.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.performance.profile-analyzer@1.2.2/Editor/MarkerPairing.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.performance.profile-analyzer@1.2.2/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.settings-manager@2.0.1/Content.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.33/Documentation~/reference-unitysetup-and-unityteardown.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.33/UnityEditor.TestRunner/AssemblyInfo.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.33/UnityEditor.TestRunner/GUI/Views/TestListGUIBase.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.33/UnityEditor.TestRunner/TestRun/Tasks/LegacyPlayerRunTask.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.33/UnityEditor.TestRunner/TestRunner/Utils/EditorCompilationInterfaceProxy.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.33/UnityEditor.TestRunner/TestRunner/Utils/TestListCacheData.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.33/UnityEngine.TestRunner/NUnitExtensions/Runner/IEnumerableTestMethodCommand.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.33/UnityEngine.TestRunner/TestRunner.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.33/UnityEngine.TestRunner/TestRunner/PlaymodeTestsController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.33/UnityEngine.TestRunner/TestRunner/SynchronousFilter.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.33/UnityEngine.TestRunner/Utils/Utils.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.33/UnityEngine.TestRunner/Utils/Vector4EqualityComparer.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.testtools.codecoverage@1.2.5/Documentation~/images/quickguide/press_play.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.testtools.codecoverage@1.2.5/Editor/Analytics/CoverageAnalyticsEnums.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.testtools.codecoverage@1.2.5/Editor/CoverageFormats/OpenCover/Model/File.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.testtools.codecoverage@1.2.5/Samples~/Tutorial/Asteroids/Prefabs/FX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.testtools.codecoverage@1.2.5/Samples~/Tutorial/Asteroids/Resources/TestsReferences.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.testtools.codecoverage@1.2.5/Samples~/Tutorial/Asteroids/Tests/CameraTests.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.testtools.codecoverage@1.2.5/Samples~/Tutorial/Asteroids/Tests/GameManagerTests.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.testtools.codecoverage@1.2.5/Samples~/Tutorial/Asteroids/Visuals/Materials/ship_metal_mat.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.testtools.codecoverage@1.2.5/Samples~/Tutorial/Asteroids/Visuals/UI/AsteroidsLogo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.testtools.codecoverage@1.2.5/Samples~/Tutorial/Worksheet.pdf.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@3.0.6/Documentation~/TextMeshPro.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor Resources/Textures/btn_AlignRight_Light.psd.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@3.0.6/Scripts/Editor/GlyphInfoDrawer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@3.0.6/Scripts/Editor/TMP_SubMesh_Editor.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@3.0.6/Scripts/Editor/TMPro_TextContainerEditor.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@3.0.6/Scripts/Runtime/TMP_Character.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@3.0.6/Scripts/Runtime/TMP_CharacterInfo.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@3.0.6/Scripts/Runtime/TMP_FontAsset.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@3.0.6/Scripts/Runtime/TextContainer.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.timeline@1.7.6/Documentation~/images/timeline_clip_duplicate_clip_before.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.timeline@1.7.6/Documentation~/images/timeline_curves_view_select_key.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.timeline@1.7.6/Documentation~/images/timeline_gap_extrap_two_tracks.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.timeline@1.7.6/Documentation~/images/timeline_match_clip_many.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.timeline@1.7.6/Documentation~/images/timeline_overview_asset.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.timeline@1.7.6/Documentation~/images/timeline_playback_controls.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.timeline@1.7.6/Documentation~/tl_settings.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.timeline@1.7.6/Documentation~/wf_nested.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.timeline@1.7.6/Editor/Audio/AudioPlayableAssetInspector.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.timeline@1.7.6/Editor/DirectorStyles.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.timeline@1.7.6/Editor/Manipulators/AddDelete.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.timeline@1.7.6/Editor/Manipulators/AddDelete/AddDeleteItemModeReplace.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.timeline@1.7.6/Editor/Recording/TimelineRecording_Monobehaviour.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.timeline@1.7.6/Editor/StyleSheets/Images.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.timeline@1.7.6/Editor/StyleSheets/Images/DarkSkin/TimelineActivation.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.timeline@1.7.6/Editor/StyleSheets/Images/DarkSkin/TimelinePlayRange.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.timeline@1.7.6/Editor/StyleSheets/Images/Icons/d_TrackMuteButtonDisabled@2x.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.timeline@1.7.6/Editor/StyleSheets/Images/LightSkin.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.timeline@1.7.6/Editor/StyleSheets/Images/Shared/TimelineSwatch.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.timeline@1.7.6/Editor/Unity.Timeline.Editor.asmdef.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.timeline@1.7.6/Editor/Utilities/AnimatedParameterCache.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.timeline@1.7.6/Editor/Utilities/Clipboard.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.timeline@1.7.6/Editor/Window/Modes/TimelineReadOnlyMode.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.timeline@1.7.6/Editor/Window/TimelineMarkerHeaderGUI.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.timeline@1.7.6/Editor/Window/TimelineWindow_Gui.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.timeline@1.7.6/Editor/Window/TimelineWindow_TrackGui.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.timeline@1.7.6/Editor/Window/ViewModel/ScriptableObjectViewPrefs.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.timeline@1.7.6/Editor/treeview/Drawers/Layers/MarkersLayer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.timeline@1.7.6/Editor/treeview/PickerUtils.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.timeline@1.7.6/Runtime/ILayerable.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.timeline@1.7.6/Runtime/Playables/ActivationControlPlayable.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.timeline@1.7.6/Runtime/Properties.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.timeline@1.7.6/Runtime/Utilities/HashUtility.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.timeline@1.7.6/Runtime/Utilities/TimelineCreateUtilities.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.timeline@1.7.6/Samples~/Customization/Annotation/Editor/Resources/dark/timeline_annotation_selected.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.timeline@1.7.6/Samples~/Customization/Tween/TweenMixerBehaviour.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.timeline@1.7.6/Samples~/GameplaySequenceDemo/Animation/Push-Stmb_Rcvr_Wk_Lt_anim1.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.timeline@1.7.6/Samples~/GameplaySequenceDemo/Character/Models/DefaultMale.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.timeline@1.7.6/Samples~/GameplaySequenceDemo/Info/Icons.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.timeline@1.7.6/Samples~/GameplaySequenceDemo/Textures/Grid_albedo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ugui@1.0.0/Documentation~/images/UI_Profiler_Image_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ugui@1.0.0/Documentation~/images/UI_RawImageInspector184.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ugui@1.0.0/Documentation~/script-GraphicRaycaster.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ugui@1.0.0/Editor/EventSystem/EventTriggerEditor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ugui@1.0.0/Editor/UI/AspectRatioFitterEditor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ugui@1.0.0/Editor/UI/ScrollRectEditor.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ugui@1.0.0/Editor/UI/SelfControllerEditor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ugui@1.0.0/Editor/UI/TextEditor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventData/PointerEventData.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/InputModules.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/InputModules/BaseInputModule.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ugui@1.0.0/Runtime/UI/Core/ColorBlock.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ugui@1.0.0/Runtime/UI/Core/MaskableGraphic.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ugui@1.0.0/Runtime/UI/Core/Text.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ugui@1.0.0/Tests/Runtime/Canvas/CanvasScalerWithChildTextObjectDoesNotCrash.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ugui@1.0.0/Tests/Runtime/Canvas/NestedCanvasMaintainsCorrectSize.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ugui@1.0.0/Tests/Runtime/Canvas/NoActiveCameraInSceneDoesNotCrashEditor.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ugui@1.0.0/Tests/Runtime/EventSystem/InputModuleTests.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ugui@1.0.0/Tests/Runtime/InputField/DesktopInputFieldTests.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ugui@1.0.0/Tests/Runtime/InputField/FakeInputModule.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.9.4/Documentation~/images/vs-events-unity-event-node.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.9.4/Documentation~/images/vs-new-graph-empty.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.9.4/Documentation~/images/vs-nodes-events-on-mouse-down-example.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.9.4/Documentation~/images/vs-on-input-system-event-button-node-example.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.9.4/Documentation~/images/vs-on-input-system-event-float-node.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.9.4/Documentation~/images/vs-sticky-note-example.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.9.4/Documentation~/snippets/nodes-coroutine.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.9.4/Documentation~/snippets/vs-blackboard-tip.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.9.4/Documentation~/vs-time.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.9.4/Editor/SettingsProvider/ProjectSettings/ScriptReferenceResolverSettings.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.9.4/Editor/VisualScripting.Core/Analysis/Analysis.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.9.4/Editor/VisualScripting.Core/Analytics/NodeUsageAnalytics.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.9.4/Editor/VisualScripting.Core/Canvases/WidgetList.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.9.4/Editor/VisualScripting.Core/Context/GraphContextExtensionAttribute.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.9.4/Editor/VisualScripting.Core/Context/IGraphContext.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.9.4/Editor/VisualScripting.Core/Dependencies/ReorderableList/ElementAdderMenu/IElementAdder.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.9.4/Editor/VisualScripting.Core/Inspection/MetadataCollectionAdaptor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.9.4/Editor/VisualScripting.Core/Inspection/MetadataDictionaryAdaptor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.9.4/Editor/VisualScripting.Core/Inspection/Root.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.9.4/Editor/VisualScripting.Core/Inspection/Special/EnumInspector.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.9.4/Editor/VisualScripting.Core/Interface/Fuzzy/FuzzyOptionTreeExtensionProvider.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.9.4/Editor/VisualScripting.Core/Interface/Licenses/License.Iconmonstr.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.9.4/Editor/VisualScripting.Core/Meta/DictionaryIndexMetadata.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.9.4/Editor/VisualScripting.Core/Platforms/ConstructorInfoStubWriter.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.9.4/Editor/VisualScripting.Core/Plugin/Acknowledgements/Acknowledgement_Iconmonstr.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.9.4/Editor/VisualScripting.Core/Plugin/Changelogs/LegacyLudiqCore/Changelog_1_2_0.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.9.4/Editor/VisualScripting.Core/Plugin/Changelogs/LegacyLudiqCore/Changelog_1_4_6.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.9.4/Editor/VisualScripting.Core/Threading.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.9.4/Editor/VisualScripting.Core/Utilities.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.9.4/Editor/VisualScripting.Core/Widgets/StickyNote/StickyNoteOption.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.9.4/Editor/VisualScripting.Core/Widgets/Widget.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.9.4/Editor/VisualScripting.Core/Widgets/WidgetAttribute.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.9.4/Editor/VisualScripting.Core/Windows/GenerateDocumentationWindow/GenerateDocumentationPage.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.9.4/Editor/VisualScripting.Core/Windows/ListPage.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.9.4/Editor/VisualScripting.Core/Windows/Sidebars.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.9.4/Editor/VisualScripting.Flow/Events/EventUnitDescriptor.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.9.4/Editor/VisualScripting.Flow/FlowGraphContext.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.9.4/Editor/VisualScripting.Flow/Framework/Control/SelectOnIntegerDescriptor.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.9.4/Editor/VisualScripting.Flow/Ports/ValueOutputWidget.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.9.4/Editor/VisualScripting.State.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.9.4/Editor/VisualScripting.State/Flow/StateUnitEditor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.9.4/Editor/VisualScripting.State/Plugin/Changelogs/Changelog_1_1_3.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.9.4/Editor/VisualScripting.State/Transitions/FlowStateTransitionAnalyser.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.9.4/Graphics/Structure_16x.ai" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.9.4/Runtime/VisualScripting.Core/Cloning/CloningContext.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.9.4/Runtime/VisualScripting.Core/Collections/FlexibleDictionary.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.9.4/Runtime/VisualScripting.Core/Dependencies/FullSerializer/Internal/fsVersionedType.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.9.4/Runtime/VisualScripting.Core/Dependencies/FullSerializer/Reflection/fsReflectionUtility.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.9.4/Runtime/VisualScripting.Core/EditorBinding/PredictableAttribute.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.9.4/Runtime/VisualScripting.Core/Exceptions/DebugUtility.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.9.4/Runtime/VisualScripting.Core/Exceptions/InvalidImplementationException.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.9.4/Runtime/VisualScripting.Core/Exceptions/UnexpectedEnumValueException.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.9.4/Runtime/VisualScripting.Core/Listeners/IGraphEventListenerData.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.9.4/Runtime/VisualScripting.Core/Listeners/MonoBehaviour/UnityOnCollisionExitMessageListener.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.9.4/Runtime/VisualScripting.Core/Pooling/GenericPool.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.9.4/Runtime/VisualScripting.Core/Pooling/IPoolable.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.9.4/Runtime/VisualScripting.Core/Reflection/MemberInfoComparer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.9.4/Runtime/VisualScripting.Core/Reflection/Operators/BinaryOperator.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.9.4/Runtime/VisualScripting.Core/Reflection/Optimization/Func_5.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.9.4/Runtime/VisualScripting.Core/Reflection/Optimization/InstanceActionInvoker_5.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.9.4/Runtime/VisualScripting.Core/Reflection/Optimization/StaticActionInvoker_3.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.9.4/Runtime/VisualScripting.Core/Reflection/TypeFilter.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.9.4/Runtime/VisualScripting.Core/Serialization/DoNotSerializeAttribute.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.9.4/Runtime/VisualScripting.Core/Utilities/LinqUtility.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.9.4/Runtime/VisualScripting.Core/Variables/VariableDeclarationCollection.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.9.4/Runtime/VisualScripting.Core/Variables/VariableKind.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.9.4/Runtime/VisualScripting.Flow/Connections/IUnitConnection.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.9.4/Runtime/VisualScripting.Flow/Connections/UnitRelation.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.9.4/Runtime/VisualScripting.Flow/Dependencies/NCalc/EvaluateFunctionHandler.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.9.4/Runtime/VisualScripting.Flow/Framework/Collections/Lists/GetListItem.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.9.4/Runtime/VisualScripting.Flow/Framework/Control/Cache.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.9.4/Runtime/VisualScripting.Flow/Framework/Control/ForEach.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.9.4/Runtime/VisualScripting.Flow/Framework/Events/GUI/OnMove.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.9.4/Runtime/VisualScripting.Flow/Framework/Events/Input/OnMouseUp.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.9.4/Runtime/VisualScripting.Flow/Framework/Events/Physics/OnCollisionExit.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.9.4/Runtime/VisualScripting.Flow/Framework/Events/Physics/OnTriggerStay.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.9.4/Runtime/VisualScripting.Flow/Framework/Graph/GetGraph.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.9.4/Runtime/VisualScripting.Flow/Framework/Literal.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.9.4/Runtime/VisualScripting.Flow/Framework/Math/Distance.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.9.4/Runtime/VisualScripting.Flow/Framework/Math/Generic.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.9.4/Runtime/VisualScripting.Flow/Framework/Math/Minimum.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.9.4/Runtime/VisualScripting.Flow/Framework/Math/Scalar/ScalarMinimum.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.9.4/Runtime/VisualScripting.Flow/Framework/Math/Vector2/Vector2Round.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.9.4/Runtime/VisualScripting.Flow/Framework/Math/Vector3/Vector3Absolute.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.9.4/Runtime/VisualScripting.Flow/Framework/Math/Vector3/Vector3DotProduct.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.9.4/Runtime/VisualScripting.Flow/Framework/Math/Vector4/Vector4MoveTowards.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.9.4/Runtime/VisualScripting.Flow/IUnit.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.9.4/Runtime/VisualScripting.Flow/Ports/IUnitPortDefinition.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.9.4/Runtime/VisualScripting.Flow/Ports/InvalidOutput.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.9.4/Runtime/VisualScripting.State/TriggerStateTransition.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.9.4/ValidationExceptions.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.VisualScripting.Shared.Editor.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/ShaderCache/builtin/unity_builtin_extra0000/00/4bace40140dc3471f1dba5a79e3d5cee.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/ShaderCache/builtin/unity_builtin_extra0000/00/6a91d658204eb8f21d002e42427cb0a4.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.csproj.AssemblyReference.cache" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;drachentrix&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/drachentrix/Eggction.git&quot;,
+    &quot;accountId&quot;: &quot;519e4b91-ba3e-4bfe-b37f-1eda92596e45&quot;
+  }
+}</component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2i9lIFJX8htvZbeNA189ZwYHTTc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;rider.external.source.directories&quot;: [
+      &quot;C:\\Users\\floni\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\DecompilerCache&quot;,
+      &quot;C:\\Users\\floni\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\SourcesCache&quot;,
+      &quot;C:\\Users\\floni\\AppData\\Local\\Symbols\\src&quot;
+    ]
+  }
+}</component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Start Unity" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\2022.3.33f1\Editor\Unity.exe" />
+      <option name="PROGRAM_PARAMETERS" value="-projectPath C:\Users\floni\OneDrive\Dokumente\programmieren\Unity\Eggction -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\floni\OneDrive\Dokumente\programmieren\Unity\Eggction" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unit Tests (batch mode)" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\2022.3.33f1\Editor\Unity.exe" />
+      <option name="PROGRAM_PARAMETERS" value="-runTests -batchmode -projectPath C:\Users\floni\OneDrive\Dokumente\programmieren\Unity\Eggction -testResults Logs/results.xml -testPlatform EditMode -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\floni\OneDrive\Dokumente\programmieren\Unity\Eggction" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="73dac4cf-aa51-4a3a-9b68-9f0830b16a16" name="Changes" comment="" />
+      <created>1718910593724</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718910593724</updated>
+      <workItem from="1718910594996" duration="623000" />
+      <workItem from="1718911236142" duration="66000" />
+    </task>
+    <task id="LOCAL-00001" summary="init">
+      <option name="closed" value="true" />
+      <created>1718910681600</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1718910681600</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityProjectDiscoverer">
+    <option name="hasUnityReference" value="true" />
+    <option name="unityProject" value="true" />
+    <option name="unityProjectFolder" value="true" />
+  </component>
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="Both" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
+  </component>
+</project>
