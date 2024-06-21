@@ -28,9 +28,9 @@ public class Turret : MonoBehaviour
     void Update()
     {
         _collider.radius = targetRange + 2;
-        if (_target.Equals(null))
+        if (_target == null)
         {
-            FindTarget();
+            // FindTarget();
             return;
         }
 
@@ -44,13 +44,6 @@ public class Turret : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D other)
     {
-        Debug.Log("HI");
-        _target = other.transform;
-    }
-
-    private void OnCollisionEnter(Collision other)
-    {        
-        Debug.Log("HI");
         _target = other.transform;
     }
 
@@ -63,19 +56,19 @@ public class Turret : MonoBehaviour
     {
         float angle = Mathf.Atan2(_target.position.y - transform.position.y, _target.position.x - transform.position.x) *
                       Mathf.Rad2Deg + 90f;
-        Debug.Log("YEY");
         Quaternion targetRotation = Quaternion.Euler(new Vector3(0f, 0f, angle));
         transform.rotation = Quaternion.RotateTowards(turretRotationPoint.rotation, targetRotation, rotationSpeed * Time.deltaTime);
     }
-    void FindTarget()
-    {
-        RaycastHit2D hits = Physics2D.CircleCast(transform.position, targetRange, transform.position, 0f, enemyMask);
-        Debug.Log(hits.transform);
-        if (hits)
-        {
-            _target = hits.transform;
-        }
-    }
+
+
+    // void FindTarget()
+    // {
+    //     RaycastHit2D hits = Physics2D.CircleCast(transform.position, targetRange, transform.position, 0f, enemyMask);
+    //     if (hits)
+    //     {
+    //         _target = hits.transform;
+    //     }
+    // }
 
     private void OnDrawGizmosSelected()
     {
