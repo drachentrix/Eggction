@@ -34,6 +34,10 @@ public class PathFollow : MonoBehaviour
             }
 
         }
+        else
+        {
+            Destroy(gameObject);
+        }
 
     }
 }
