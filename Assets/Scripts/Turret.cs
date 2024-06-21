@@ -1,4 +1,5 @@
 
+using System;
 using UnityEditor;
 using UnityEngine;
 
@@ -10,6 +11,7 @@ public class Turret : MonoBehaviour
     [Header("References")]
     [SerializeField] private Transform turretRotationPoint;
     [SerializeField] private LayerMask enemyMask;
+    [SerializeField] private CircleCollider2D _collider;
     
     
     [Header("Attribute")]
@@ -25,7 +27,8 @@ public class Turret : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (_target == null)
+        _collider.radius = targetRange + 2;
+        if (_target.Equals(null))
         {
             FindTarget();
             return;
@@ -37,6 +40,18 @@ public class Turret : MonoBehaviour
         {
             _target = null;
         }
+    }
+
+    private void OnTriggerEnter2D(Collider2D other)
+    {
+        Debug.Log("HI");
+        _target = other.transform;
+    }
+
+    private void OnCollisionEnter(Collision other)
+    {        
+        Debug.Log("HI");
+        _target = other.transform;
     }
 
     bool CheckTargetInRange()
