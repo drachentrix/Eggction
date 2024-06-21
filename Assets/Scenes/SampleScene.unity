@@ -1029,7 +1029,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 841526559}
-  - component: {fileID: 841526560}
   - component: {fileID: 841526561}
   m_Layer: 0
   m_Name: Turret
@@ -1054,25 +1053,6 @@ Transform:
   - {fileID: 1808439429}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &841526560
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 841526558}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0b30c0f9d200ef14bb33879073065478, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  turretRotationPoint: {fileID: 0}
-  enemyMask:
-    serializedVersion: 2
-    m_Bits: 64
-  _collider: {fileID: 1808439431}
-  targetRange: 4.16
-  rotationSpeed: 9.36
 --- !u!58 &841526561
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -1924,6 +1904,7 @@ GameObject:
   - component: {fileID: 1808439429}
   - component: {fileID: 1808439430}
   - component: {fileID: 1808439431}
+  - component: {fileID: 1808439432}
   m_Layer: 0
   m_Name: TestTuret
   m_TagString: Untagged
@@ -2033,6 +2014,25 @@ CircleCollider2D:
   m_Offset: {x: -0.000000059604645, y: -0.0000000037252903}
   serializedVersion: 2
   m_Radius: 4.64
+--- !u!114 &1808439432
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1808439428}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0b30c0f9d200ef14bb33879073065478, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  turretRotationPoint: {fileID: 1808439429}
+  enemyMask:
+    serializedVersion: 2
+    m_Bits: 64
+  _collider: {fileID: 1808439431}
+  targetRange: 5.8
+  rotationSpeed: 37.4
 --- !u!1 &1976495462
 GameObject:
   m_ObjectHideFlags: 0
